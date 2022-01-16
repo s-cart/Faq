@@ -6,3 +6,5 @@
 ##Variable model:
 - modelFaqCategory
 - modelFaqContent
+
+Link plugin: https://s-cart.org/en/plugin/faqs-plugin_16081625755f119d0f35176.html

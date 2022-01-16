@@ -4,7 +4,7 @@ namespace App\Plugins\Cms\Faq\Controllers;
 
 use App\Plugins\Cms\Faq\Models\FaqCategory;
 use App\Plugins\Cms\Faq\Models\FaqContent;
-use App\Http\Controllers\RootAdminController;
+use SCart\Core\Admin\Controllers\RootAdminController;
 use App\Plugins\Cms\Faq\AppConfig;
 
 class FaqController extends RootAdminController

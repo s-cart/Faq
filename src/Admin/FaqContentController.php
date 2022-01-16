@@ -1,7 +1,7 @@
 <?php
 namespace App\Plugins\Cms\Faq\Admin;
 
-use App\Http\Controllers\RootAdminController;
+use SCart\Core\Admin\Controllers\RootAdminController;
 use SCart\Core\Front\Models\ShopLanguage;
 use App\Plugins\Cms\Faq\Admin\Models\AdminFaqCategory;
 use App\Plugins\Cms\Faq\Admin\Models\AdminFaqContent;
