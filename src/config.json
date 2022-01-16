@@ -1,0 +1,11 @@
+{
+    "name": "Frequently asked questions",
+    "image": "images/faq.jpg",
+    "auth": "Naruto",
+    "email": "lanhktc@gmail.com",
+    "link": "https://S-Cart.Org",
+    "configGroup": "Plugins",
+    "configCode": "Cms",
+    "configKey": "Faq",
+    "version": "2.2"
+}
