@@ -1,3 +1,10 @@
+
+##========= History =========
+
+Version 3.x support S-Cart 6.x
+
+Version 4.x support S-Cart 7.x
+
 ##URL:
 -domain.com/faq
 ##Admin: Content -> FAQ manager
